@@ -5,7 +5,7 @@
 We take security seriously and appreciate efforts to responsibly disclose vulnerabilities. If you discover a security issue, please report it **privately** via email or through Github's private vulnerability disclosure reporting mechanism.
 
 - **Contact:** [security@fabricat.io](mailto:security@fabricat.io)
-- **Github: ** [Private Security Advisory](https://github.com/fabricat-io/semver/security/advisories)
+- **Github:** [Private Security Advisory](https://github.com/fabricat-io/semver/security/advisories)
 - **Do not create a public issue** on GitHub or any other public channel.
 
 We will acknowledge receipt of your report within **3 business days** and aim to provide an initial response within **7 business days**. Once the issue is resolved, we will coordinate a responsible disclosure timeline with you.
